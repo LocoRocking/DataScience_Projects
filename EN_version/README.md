@@ -101,13 +101,13 @@ Based on the data of the mobile operator's customers, analyze the behavior of cu
 
 **Line of business:** Machine learning, Classification.
 
-**Skills and tools:** Pandas, Matplotlib, Scikit-learn.
+**Skills and tools:** Pandas, Matplotlib, Scikit-learn, Upsampling, Downsampling, fight data imbalance.
 
 **Project objective:** Based on data from the bank, identify customers who may leave.
 
 **Description of the project:** Customers began to leave the bank. Every month. A little, but noticeable. Banking marketers figured it was cheaper to keep current customers than to attract new ones. It is necessary to predict whether the client will leave the bank in the near future or not. Provided historical data on customer behavior and termination of agreements with the bank.
 
-**Project keywords:** classification, selection of hyperparameters, selection of a machine learning model.
+**Project keywords:** classification, selection of hyperparameters, selection of a machine learning model, fight data imbalance.
 
 ## 8. Determination of the most profitable region for oil production
 
@@ -157,13 +157,13 @@ Based on the data of the mobile operator's customers, analyze the behavior of cu
 
 **Line of business:** Machine learning.
 
-**Skills & Tools:** Python, Pandas, LightGBM, CatBoost.
+**Skills & Tools:** Python, Pandas, LightGBM, CatBoost, ordinal encoding, one-hot encoding, scaler.
 
 **Project objective:** Development of a car cost recommendation system based on its description.
 
 **Project Description:** A used car sales service is developing an application to attract new customers. In it, you can quickly find out the market value of your car. Based on historical data, it is necessary to build a model to determine the cost of the car.
 
-**Project keywords:** gradient boosting, regression.
+**Project keywords:** gradient boosting, regression, encoding, scaler.
 
 ## 12. Forecasting the number of taxi orders for the next hour
 
