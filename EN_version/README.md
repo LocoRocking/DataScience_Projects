@@ -1,8 +1,8 @@
 # DataScience_Projects
 
-My projects with training on the course Data Science Specialist at Yandex Practicum.
+My course projects are Data Science Specialist at Yandex Practicum.
 
-During the development period, 15 projects were implemented using real data.
+During this time, I have completed 15 projects based on real data.
 
 ## 1. A study of Yandex.Music service data is a comparison of users of two cities.
 
@@ -145,7 +145,7 @@ Based on the data of the mobile operator's customers, analyze the behavior of cu
 
 ***Skills and Tools:*** Python, NumPy, Scikit-learn.
 
-***Project objective:*** Development of a personal data anonymization model.
+**Project objective:** Development of a personal data anonymization model.
 
 ***Description of the project:*** It is necessary to protect the data of the clients of the insurance company. A data conversion method was developed to make it difficult to recover personal information from them. The correctness of its work is substantiated. The data has been protected so that the quality of the machine learning models does not deteriorate during the transformation. It was not necessary to select the best model.
 
@@ -208,16 +208,20 @@ A chain supermarket introduces a computer vision system to process customer phot
 
 ***Project keywords:*** image processing, neural networks.
 
-## 15. 
+## 15. Industry. Temperature Prediction in Steel Melting
 
-***Fields of activity:***
+***Fields of activity:*** Business, industry.
 
-***Line of business:***
+***Line of business:*** Machine learning, regression, analyst.
 
-***Skills and tools:***
+***Skills and tools:*** Python, Pandas, Matplotlib, Scikit-learn, exploratory data analysis, data preprocessing, LightGBM.
 
-***Project objective:***
+***Project objective:*** In order to optimize production costs, the smelter decided to reduce electricity consumption during the steel processing stage. It is necessary to build a model that will predict the final steel temperature.
 
-***Project description:***
+***Project description:*** Using machine learning, it is necessary to predict the final temperature of the steel during melting and adding various additives to adjust the chemical composition of the steel. Process:
 
-***Project keywords:***
+Steel is processed in a metal ladle with a capacity of about 100 tons. Molten steel is poured into a ladle and heated to the desired temperature with graphite electrodes. They are installed in the lid of the bucket.
+Sulfur is removed from the alloy (desulfurization), the chemical composition is corrected by adding impurities, and samples are taken. Steel is alloyed - its composition is changed - by feeding pieces of alloy from a bunker for bulk materials or wire through a special tribe apparatus.
+Before introducing alloying additives for the first time, the temperature of the steel is measured and its chemical analysis is carried out. Then the temperature is raised for several minutes, alloying materials are added and the alloy is purged with an inert gas. Then it is stirred and measured again. This cycle is repeated until the target chemical composition and optimum melting temperature are reached.
+
+***Project keywords:*** data analysis, regression, gradient boosting, predictions.
