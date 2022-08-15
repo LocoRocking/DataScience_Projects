@@ -4,7 +4,7 @@ My course projects are Data Science Specialist at Yandex Practicum.
 
 During this time, I have completed 15 projects based on real data.
 
-## 1. A study of Yandex.Music service data is a comparison of users of two cities.
+## 1. [A study of Yandex.Music service data is a comparison of users of two cities](https://github.com/LocoRocking/DataScience_Projects/blob/main/EN_version/01.%20Music%20of%20big%20cities/Music%20of%20big%20cities.ipynb).
 
 ***Fields of activity:*** internet services, streaming service, music.
 
