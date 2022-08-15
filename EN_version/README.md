@@ -4,7 +4,7 @@ My course projects are Data Science Specialist at Yandex Practicum.
 
 During this time, I have completed 15 projects based on real data.
 
-## 1. A study of Yandex.Music service data is a comparison of users of two cities.
+## [1. A study of Yandex.Music service data is a comparison of users of two cities](https://github.com/LocoRocking/DataScience_Projects/blob/main/EN_version/01.%20Music%20of%20big%20cities/Music%20of%20big%20cities.ipynb).
 
 ***Fields of activity:*** internet services, streaming service, music.
 
@@ -23,7 +23,7 @@ Some myths reflect reality. Others are empty stereotypes. Business must distingu
 
 ***Project keywords:*** data processing, duplicates, gaps, logical indexing, grouping, sorting
 
-## 2. Borrower Reliability Study - Banking Data Analysis
+## [2. Borrower Reliability Study - Banking Data Analysis](https://github.com/LocoRocking/DataScience_Projects/blob/main/EN_version/02.%20Bank%20Borrower%20Reliability%20Study/Bank%20Borrower%20Reliability%20Study.ipynb)
 
 ***Fields of activity:*** banking, lending
 
@@ -37,7 +37,7 @@ Some myths reflect reality. Others are empty stereotypes. Business must distingu
 
 ***Project keywords:*** data processing, duplicates, omissions, categorization, decomposition.
 
-## 3. Sale of apartments in St. Petersburg - analysis of the real estate market
+## [3. Sale of apartments in St. Petersburg - analysis of the real estate market](https://github.com/LocoRocking/DataScience_Projects/blob/main/EN_version/03.%20Research%20of%20advertisements%20for%20the%20sale%20of%20apartments/Research%20of%20advertisements%20for%20the%20sale%20of%20apartments.ipynb)
 
 ***Fields of activity:*** Internet services, ad platforms.
 
@@ -52,7 +52,7 @@ Using data from the Yandex.Realty service, determine the market value of real es
 
 ***Project keywords:*** data processing, histogram, boxplot, scattermatrix, categorization, scatterplot, fraud monitoring.
 
-## 4. Determination of a favorable tariff for a telecom company
+## [4. Determination of a favorable tariff for a telecom compan](https://github.com/LocoRocking/DataScience_Projects/blob/main/EN_version/04.%20Determination%20of%20a%20prospective%20tariff%20for%20a%20telecom%20company/Determination%20of%20a%20prospective%20tariff%20for%20a%20telecom%20company.ipynb)
 
 ***Fields of activity:*** Telecom.
 
@@ -67,7 +67,7 @@ Based on the data of the mobile operator's customers, analyze the behavior of cu
 
 ***Project keywords:*** data processing, histogram, boxplot, statistical test.
 
-## 5. Video game market research
+## [5. Video game market research](https://github.com/LocoRocking/DataScience_Projects/blob/main/EN_version/05.%20Video%20game%20market%20research/Video%20game%20market%20research.ipynb)
 
 ***Fields of activity:*** Business, Game industry, Online store.
 
@@ -81,7 +81,7 @@ Based on the data of the mobile operator's customers, analyze the behavior of cu
 
 ***Project keywords:*** data processing, histogram, boxplot, statistical test.
 
-## 6. Telecom company customer classification
+## [6. Telecom company customer classification](https://github.com/LocoRocking/DataScience_Projects/blob/main/EN_version/06.%20Telecom%20tariff%20recommendation/Telecom%20tariff%20recommendation.ipynb)
 
 ***Fields of activity:*** Telecom.
 
@@ -95,7 +95,7 @@ Based on the data of the mobile operator's customers, analyze the behavior of cu
 
 ***Project keywords:*** classification, selection of hyperparameters, selection of a machine learning model.
 
-## 7. Forecasting the outflow of the Bank's customers
+## [7. Forecasting the outflow of the Bank's customers](https://github.com/LocoRocking/DataScience_Projects/blob/main/EN_version/07.%20The%20outflow%20of%20customers%20from%20the%20bank/The%20outflow%20of%20customers%20from%20the%20bank.ipynb)
 
 ***Fields of activity:*** Business, Investments, Banking, Lending
 
@@ -109,7 +109,7 @@ Based on the data of the mobile operator's customers, analyze the behavior of cu
 
 ***Project keywords:*** classification, selection of hyperparameters, selection of a machine learning model, fight data imbalance.
 
-## 8. Determination of the most profitable region for oil production
+## [8. Determination of the most profitable region for oil production](https://github.com/LocoRocking/DataScience_Projects/blob/main/EN_version/08.%20Choosing%20a%20location%20for%20drilling%20a%20well/Choosing%20a%20location%20for%20drilling%20a%20well.ipynb)
 
 ***Fields of activity:*** Mining companies.
 
@@ -123,7 +123,7 @@ Based on the data of the mobile operator's customers, analyze the behavior of cu
 
 ***Project keywords:*** regression, business model development, bootstrap.
 
-## 9. Study of the technological process of gold refining
+## [9. Study of the technological process of gold refining](https://github.com/LocoRocking/DataScience_Projects/blob/main/EN_version/09.%20Recovery%20of%20gold%20from%20ore/Recovery%20of%20gold%20from%20ore.ipynb)
 
 ***Fields of activity:*** industry.
 
@@ -137,7 +137,7 @@ Based on the data of the mobile operator's customers, analyze the behavior of cu
 
 ***Project keywords:*** data analysis, regression, custom quality metrics.
 
-## 10. Protection of personal data of clients of the insurance company
+## [10. Protection of personal data of clients of the insurance compan](https://github.com/LocoRocking/DataScience_Projects/blob/main/EN_version/10.%20Protection%20of%20personal%20data%20of%20clients/Protection%20of%20personal%20data%20of%20clients.ipynb)
 
 ***Fields of activity:*** Banking, Internet services, Investments, Telecom.
 
@@ -151,7 +151,7 @@ Based on the data of the mobile operator's customers, analyze the behavior of cu
 
 ***Project keywords:*** linear algebra, regression, personal data protection.
 
-## 11. Building a model for determining the cost of a car
+## [11. Building a model for determining the cost of a car](https://github.com/LocoRocking/DataScience_Projects/blob/main/EN_version/11.%20Determining%20the%20cost%20of%20cars/Determining%20the%20cost%20of%20cars.ipynb)
 
 ***Fields of activity:*** Internet services, Internet shops, Business.
 
@@ -165,7 +165,7 @@ Based on the data of the mobile operator's customers, analyze the behavior of cu
 
 ***Project keywords:*** gradient boosting, regression, encoding, scaler.
 
-## 12. Forecasting the number of taxi orders for the next hour
+## [12. Forecasting the number of taxi orders for the next hour](https://github.com/LocoRocking/DataScience_Projects/blob/main/EN_version/12.%20Forecasting%20taxi%20orders/Forecasting%20taxi%20orders.ipynb)
 
 ***Fields of activity:*** Business, Internet services, Startups.
 
@@ -179,7 +179,7 @@ Based on the data of the mobile operator's customers, analyze the behavior of cu
 
 ***Project keywords:*** time series, regression, predictions.
 
-## 13. Training a model to find toxic comments
+## [13. Training a model to find toxic comments](https://github.com/LocoRocking/DataScience_Projects/blob/main/EN_version/13.%20Finding%20toxic%20comments%20with%20BERT/Finding%20toxic%20comments%20with%20BERT.ipynb)
 
 ***Fields of activity:*** Internet services, Startups.
 
@@ -193,7 +193,7 @@ Based on the data of the mobile operator's customers, analyze the behavior of cu
 
 ***Project Keywords:*** Natural Language Processing, NLP, BERT.
 
-## 14. Processing buyer photos
+## [14. Processing buyer photos](https://github.com/LocoRocking/DataScience_Projects/blob/main/EN_version/14.%20Determining%20the%20age%20of%20buyers%20from%20photo%20(CV)/Determining%20the%20age%20of%20buyers%20from%20photo%20(CV).ipynb)
 
 ***Fields of activity:*** Business, offline, supermarkets.
 
@@ -208,7 +208,7 @@ A chain supermarket introduces a computer vision system to process customer phot
 
 ***Project keywords:*** image processing, neural networks.
 
-## 15. Industry. Temperature Prediction in Steel Melting
+## [15. Industry. Temperature Prediction in Steel Melting](https://github.com/LocoRocking/DataScience_Projects/blob/main/EN_version/15.%20Industry.%20Temperature%20Prediction%20in%20Steel%20Melting/Industry.%20Temperature%20Prediction%20in%20Steel%20Melting.ipynb)
 
 ***Fields of activity:*** Business, industry.
 
